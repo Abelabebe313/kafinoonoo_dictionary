@@ -1,0 +1,86 @@
+[
+    {
+      "id":1,
+     "kafigna":"a",
+     "Amharic":"ቋንቋው የመጅመሪያው ፊደል",
+     "English":"one of the vowels in language"
+    },
+    {
+      "id":2,
+     "kafigna":"aa'aafo",
+     "Amharic":"ጥቁር አዝሙድ",
+     "English":"small, and black fruit used in the preparation of spice"
+    }, 
+   {
+    "id":3,
+     "kafigna":"aabaallo",
+     "Amharic":"ወቅት የለሽ",
+     "English":"sth whose day of happening not know or unexpected"
+    },
+   {
+    "id":4,
+     "kafigna":"aabaa-xumo",
+     "Amharic":"ቀንና ሌሊት",
+     "English":"day and night"
+    },
+  {
+    "id":5,
+     "kafigna":"aabbeeno",
+     "Amharic":"አቦዬ",
+     "English":"one of angles"
+    },
+  {
+    "id":6,
+     "kafigna":"aabbi aabbicho",
+     "Amharic":"የአያት የቅደመ አያት",
+     "English":"ancestor"
+    },
+  {
+    "id":7,
+     "kafigna":"aabbiyooba",
+     "Amharic":"በአባቶች ዘመን",
+     "English":"ancient"
+    },
+  {
+    "id":8,
+     "kafigna":"aabboo",
+     "Amharic":"አርባ (40)",
+     "English":"forty"
+    },
+  {
+    "id":9,
+     "kafigna":"aabdoomoo",
+     "Amharic":"ሲቀነጠስ ወተት ያለው ሳር",
+     "English":"a kind of grass that emits milky liquid"
+    },
+  {
+    "id":10,
+     "kafigna":"aabee bekko",
+     "Amharic":"የጸሀይ ብርሃን",
+     "English":"sun light"
+    },
+  {
+    "id":11,
+     "kafigna":"aabee heeraawoo",
+     "Amharic":"የጸሀይ መነጽር",
+     "English":"sun glass"
+    },
+  {
+    "id":12,
+     "kafigna":"aabekkona",
+     "Amharic":"የትም",
+     "English":"anywhere"
+    },
+   {
+    "id":13,
+     "kafigna":"aabi",
+     "Amharic":"የቱ",
+     "English":"which one"
+    },
+    {
+      "id":14,
+      "kafigna":"kexo",
+      "Amharic":"ቤት",
+      "English":"House"
+     }
+]
